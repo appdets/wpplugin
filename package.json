@@ -1,0 +1,12 @@
+{
+  "name": "darkmode",
+  "version": "1.0.0",
+  "description": "Lightweight NPM package for toogling DarkMode on your app and websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "iamjafran",
+  "license": "MIT"
+}
